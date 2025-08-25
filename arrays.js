@@ -57,12 +57,14 @@ document.addEventListener("DOMContentLoaded", function () {
     //     Opgave 7a
     // Find ud af hvilket index "Mango" har i fruitsArray.
     // Udskriv indexet i konsollen.
-    
+    console.log("Opgave 7a", fruitsArray.indexOf("Mango"));
+
 
     // Opgave 7b
     // Find ud af hvilket index "Blåbær" har i fruitsArray.
     // Udskriv indexet i konsollen.
-   
+       console.log("Opgave 7b", fruitsArray.indexOf("Blåbær"));
+       
     // Opgave 8
     // Lad os forestille os, at dogsArray er en liste af tilmeldte hunde til en udstilling.
     // Den familie der har hunden "Polly" er desværre blevet forhindret i at deltage i udstillingen.
